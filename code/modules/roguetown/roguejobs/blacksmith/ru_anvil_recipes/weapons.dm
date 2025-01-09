@@ -75,7 +75,7 @@
 	skill_level = 2
 
 /datum/anvil_recipe/weapons/steel/zweihander
-	name = "Цвайхандер (+2 Железо)"
+	name = "Цвайхандер (+2 Железа)"
 	req_bar = /obj/item/ingot/iron
 	additional_items = list(/obj/item/ingot/iron, /obj/item/ingot/iron)
 	created_item = /obj/item/rogueweapon/greatsword/zwei
