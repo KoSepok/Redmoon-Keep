@@ -1,7 +1,7 @@
 
 /obj/machinery/anvil
 	icon = 'icons/roguetown/misc/forge.dmi'
-	name = "iron anvil"
+	name = "Железная наковальня"
 	desc = "It's surface is marred by countless hammer strikes."
 	icon_state = "anvil"
 	var/hott = null
